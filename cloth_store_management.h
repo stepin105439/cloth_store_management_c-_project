@@ -11,8 +11,8 @@
 
 
     void dress::get();
-    childrn::childrn();
-    add::add();
-    search::search();
-    cut::cut();
+    
+    int add_item();
+    int search_item();
+    int cut_item();
     #endif
