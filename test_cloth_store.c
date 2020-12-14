@@ -10,7 +10,7 @@ EXPECT_EQ("coat",search_item("coat"));
 }
 
 TEST(Cloth_Store_Management_Test,Cut_Item) {
-EXPECT_EQ("jeans","cut_item("jeans"));
+EXPECT_EQ("jeans",cut_item("jeans"));
 }
 }
 
